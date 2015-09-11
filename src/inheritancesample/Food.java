@@ -5,6 +5,6 @@ package inheritancesample;
  *
  * @author andre_000
  */
-public class Food {
+public abstract class Food {
     
 }

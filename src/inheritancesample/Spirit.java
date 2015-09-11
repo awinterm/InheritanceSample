@@ -9,6 +9,6 @@ package inheritancesample;
  *
  * @author andre_000
  */
-public class Spirit {
+public abstract class Spirit {
     
 }

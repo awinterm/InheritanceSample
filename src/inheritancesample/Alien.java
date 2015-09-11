@@ -5,7 +5,7 @@ package inheritancesample;
  *
  * @author andre_000
  */
-public class Alien {
+public abstract class Alien {
     private String notFromEarth;
 
     public String getNotFromEarth() {

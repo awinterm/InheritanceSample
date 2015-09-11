@@ -9,6 +9,6 @@ package inheritancesample;
  *
  * @author andre_000
  */
-public class CuttingTool extends Tool {
+public abstract class CuttingTool extends Tool {
     
 }
